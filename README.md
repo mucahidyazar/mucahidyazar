@@ -8,8 +8,12 @@
 I create accessible, user-friendly web applications with the best efficient
 solutions and best practices of the frontend world for SAAS projects.
 
-<img src="https://github.com/mucahidyazar/mucahidyazar/blob/master/cover.gif?raw=true" alt="mucahidyazar" width="400" />
+<div>
+  <img src="https://github.com/mucahidyazar/mucahidyazar/blob/master/cover.gif?raw=true" alt="mucahidyazar" width="400" />
+</div>
 
-<img src="https://komarev.com/ghpvc/?username=mucahidyazar" alt="mucahidyazar" />
+<div>
+  <img src="https://komarev.com/ghpvc/?username=mucahidyazar" alt="mucahidyazar" />
+</div>
 
 </div>
