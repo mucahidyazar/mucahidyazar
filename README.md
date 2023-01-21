@@ -2,7 +2,7 @@
 [![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mucahidyazar)
 [![](https://img.shields.io/badge/mucahid.dev-green?style=for-the-badge)](https://mucahid.dev)
 
-I create accessible, user-friendly web applications with the best efficient solutions and best practices of the frontend world for SAAS projects. I'm currently working at [![GitHub](https://img.shields.io/badge/Company-Name-blue)]
+I create accessible, user-friendly web applications with the best efficient solutions and best practices of the frontend world for SAAS projects.
 
 ![Cover Photo](https://github.com/mucahidyazar/mucahidyazar/blob/master/cover.gif?raw=true)
 
