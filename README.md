@@ -3,7 +3,7 @@
 <p>I create accessible, user-friendly web applications with the best efficient
 solutions and best practices of the frontend world for SAAS projects.</p>
 
-<a href="https://mucahid.dev/resume.pdf" target="_blank" download>
+<a href="https://mucahid.dev/resume.pdf" target="_blank">
   <img src="https://img.shields.io/badge/Download%20My%20Resume-2D3748?style=for-the-badge" alt="Download My Resume" />
 </a>
 
